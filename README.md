@@ -2,7 +2,7 @@
 - 👀 I’m interested in math and climbing
 - 🌱 I’m currently learning to code
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: loving trees
+- ⚡ Fun fact: loving trees, feminist
 
 <!---
 karnevalstintenfisch/karnevalstintenfisch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
