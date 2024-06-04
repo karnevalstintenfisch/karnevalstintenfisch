@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @karnevalstintenfisch
-- 👀 I’m interested in maths and climbing
-- 🌱 I’m currently learning to live
+- 👀 I’m interested in math and climbing
+- 🌱 I’m currently learning to code
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: loving trees
 
